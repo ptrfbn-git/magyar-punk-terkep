@@ -2,7 +2,7 @@
 
 An interactive map of Hungarian punk concerts from the **punkportal.hu** archive, covering 2002–2021.
 
-**[→ Open the map](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)**
+**[→ Open the map](https://ptrfbn-git.github.io/magyar-punk-terkep/)**
 
 ---
 
